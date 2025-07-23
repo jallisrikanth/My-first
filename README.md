@@ -1,11 +1,5 @@
-# Smart Home Automation using AI
-
-![Smart Home Automation](/path/to/your/image.png)
-
-## Overview
-
-The Smart Home Automation using AI project is a demonstration of an intelligent home automation Smart-Home-Automation-using-AI
-Certainly! Here's a template for a README.md file that you can use to provide information about your Smart Home Automation project:
+# Smart-Home-Automation-using-AI
+Certainly! Here's a template for a README.md file that you can use to provide information about your Smart Home Automation project
 
 # Smart Home Automation using AI
 
